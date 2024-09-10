@@ -1,5 +1,15 @@
 # @hyperlane-xyz/registry
 
+## 4.1.0
+
+### Minor Changes
+
+- 7ccdd62: Add piccadilly testnet chain
+
+### Patch Changes
+
+- 4de3ccf: Update Celo chain logo
+
 ## 4.0.0
 
 ### Major Changes
